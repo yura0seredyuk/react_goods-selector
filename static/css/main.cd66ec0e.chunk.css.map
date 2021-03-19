@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,cACE,YAAa,CACd,cAGC,YAAa,CACd,MAGC,eAAgB","file":"main.cd66ec0e.chunk.css","sourcesContent":["// styles go here\n.selectedGood {\n  color: orange;\n}\n\n.hiddenButton {\n  display: none;\n}\n\n.list {\n  list-style: none;\n}\n"]}
